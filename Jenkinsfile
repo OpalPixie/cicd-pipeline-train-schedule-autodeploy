@@ -31,9 +31,6 @@ pipeline {
             }
         }
         stage('Push Docker Image') {
-            when {
-                branch 'master'
-            }
             steps {
                 echo 'Running build automation'
                 echo 'Running build automation'
