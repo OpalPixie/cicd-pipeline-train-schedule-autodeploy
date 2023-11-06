@@ -27,6 +27,12 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
+                echo 'Install Puppet'
+                sh "wget -N -O 'puppet.deb' https://apt.puppetlabs.com/puppet6-release-bionic.deb"
+                sh "chmod 755 puppet.deb"
+                sh "sudo dpkg -i puppet.deb"
+                sh "sudo apt update"
+                sh "sudo apt install -y puppet-agent"
                 
             }
         }
