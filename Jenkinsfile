@@ -54,7 +54,7 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
-                echo 'Running build automation
+                echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
