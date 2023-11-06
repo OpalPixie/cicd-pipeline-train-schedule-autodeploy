@@ -17,9 +17,16 @@ pipeline {
                 branch 'master'
             }
             steps {
-                script {
-                    
-                    }
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
                 
             }
         }
@@ -28,21 +35,84 @@ pipeline {
                 branch 'master'
             }
             steps {
-                script {
-                    
-                    }
-                }
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation
             }
         
         stage('CanaryDeploy') {
             when {
                 branch 'master'
             }
-            environment { 
-               
-            }
+            
             steps {
-                
+             echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation
                 
             }
         }
@@ -50,11 +120,28 @@ pipeline {
             when {
                 branch 'master'
             }
-            environment { 
-                
-            }
+            
             steps {
-               
+             echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation  
                
             }
         }
