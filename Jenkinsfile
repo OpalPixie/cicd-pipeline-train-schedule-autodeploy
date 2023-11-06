@@ -44,17 +44,7 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
-                echo 'Running build automation
                 echo 'Running build automation'
-                echo 'Running build automation'
-                echo 'Running build automation'
-                echo 'Running build automation'
-                echo 'Running build automation'
-                echo 'Running build automation'
-                echo 'Running build automation'
-                echo 'Running build automation'
-                echo 'Running build automation'
-                echo 'Running build automation
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
@@ -65,6 +55,16 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
+                echo 'Running build automation'
             }
         
         stage('CanaryDeploy') {
@@ -102,7 +102,6 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
-                echo 'Running build automation
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
@@ -112,7 +111,8 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
-                echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
                 
             }
         }
@@ -131,7 +131,6 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
-                echo 'Running build automation
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
@@ -141,7 +140,8 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
-                echo 'Running build automation  
+                echo 'Running build automation'
+                echo 'Running build automation' 
                
             }
         }
