@@ -45,7 +45,7 @@ pipeline {
             }
             steps {
                 
-                )
+                
             }
         }
         stage('DeployToProduction') {
@@ -57,10 +57,7 @@ pipeline {
             }
             steps {
                
-                )
-                kubernetesDeploy(
-                    
-                )
+               
             }
         }
     }
