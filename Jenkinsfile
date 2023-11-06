@@ -82,7 +82,6 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
-                echo 'Running build automation
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
@@ -92,7 +91,8 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
-                echo 'Running build automation
+                echo 'Running build automation'
+                echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
@@ -122,7 +122,7 @@ pipeline {
             }
             
             steps {
-             echo 'Running build automation'
+                echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
                 echo 'Running build automation'
