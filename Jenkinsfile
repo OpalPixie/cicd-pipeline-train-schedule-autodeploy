@@ -63,7 +63,7 @@ pipeline {
                 echo 'Running build automation'
                 echo 'Running build automation'
             }
-        
+        }
         stage('CanaryDeploy') {
             when {
                 branch 'master'
@@ -144,4 +144,4 @@ pipeline {
         }
     }
 }
-}
+
