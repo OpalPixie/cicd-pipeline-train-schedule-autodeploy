@@ -22,7 +22,7 @@ pipeline {
                     app.inside {
                         sh 'echo Hello, World!'
                     }
-                }
+                
             }
         }
         stage('Push Docker Image') {
